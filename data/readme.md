@@ -1,6 +1,6 @@
 ## Introduction
 
-We provide the processed data used in our paper to be appeared at EMNLP 2023: Empirical Study of Zero-Shot NER with ChatGPT.
+We provide the processed data used in our paper to be appeared at EMNLP 2023: [Empirical Study of Zero-Shot NER with ChatGPT](https://arxiv.org/abs/2310.10035).
 
 You can download these processed data in [Google Drive](https://drive.google.com/file/d/1OThhbY6IkO1vJuseLijQD5qyUoQ27dJk/view?usp=share_link).
 
